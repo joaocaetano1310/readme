@@ -6,6 +6,18 @@ O projeto foi desenvolvido para a disciplina de Java Advanced da FIAP, seguindo 
 
 ---
 
+## 👥 Equipe
+
+| Nome | RM |
+|------|-----|
+| João Victor Caetano Alves da Silva | RM 562074 |
+| João Victor Bueno Castelini da Silva | RM 564115 |
+| Ryan Vetoriano | RM 565667 |
+| Felipe Furlanetto | RM 562766 |
+| Raul Rezende Iemini Aguiar | RM 564002 |
+
+---
+
 # 📌 Objetivo do Projeto
 
 A FutureVet API foi criada com o objetivo de facilitar o controle e gerenciamento de informações veterinárias, oferecendo:
